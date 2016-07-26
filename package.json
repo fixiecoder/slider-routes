@@ -1,0 +1,25 @@
+{
+  "name": "slider-routes",
+  "version": "1.0.0",
+  "description": "Sliding page transitions and routing for react",
+  "main": "slider-routes.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/fixiecoder/slider-routes.git"
+  },
+  "keywords": [
+    "Router",
+    "transition",
+    "pages",
+    "slider"
+  ],
+  "author": "Colin Adams",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/fixiecoder/slider-routes/issues"
+  },
+  "homepage": "https://github.com/fixiecoder/slider-routes#readme"
+}
